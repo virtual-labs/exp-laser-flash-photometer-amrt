@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which experimental technique operates on the fastest timescale?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nanosecond laser flash photolysis",
+        "b": "Stopped flow techniques",
+        "c": "NMR Spectroscopy",
+        "d": "Spectrophotometry"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Laser flash photolysis using nanosecond lasers allows study of extremely fast reactions. <a href='https://example.com/laser-flash-photolysis'>More info</a>",
+        "b": "Stopped-flow techniques are fast but not as fast as laser-based methods.",
+        "c": "NMR is slower, typically used for more stable intermediates.",
+        "d": "Spectrophotometry is not suitable for very fast time scales."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The polychromatic beam is passed through a spectrograph to select the wavelength at which the reaction kinetics are monitored or to measure transient spectra as a function of:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Light",
+        "b": "Intensity",
+        "c": "Time",
+        "d": "None"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "While light is involved, the measurement tracks changes over time.",
+        "b": "Intensity may vary but is not the monitored variable.",
+        "c": "Correct: changes are measured as a function of time.",
+        "d": "Incorrect: there is a variable being tracked—time."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
