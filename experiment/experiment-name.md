@@ -1,1 +1,1 @@
-## Experiment name
+## Laser Flash Photometer
