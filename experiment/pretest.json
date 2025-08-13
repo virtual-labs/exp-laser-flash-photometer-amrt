@@ -34,6 +34,40 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "The diatomic product is produced in a highly excited state with a lifetime in the:",
+      "answers": {
+        "a": "Nanosecond range",
+        "b": "Picoseconds range",
+        "c": "Microsecond range",
+        "d": "Millisecond range"
+      },
+      "explanations": {
+        "a": "Correct: as per the text, the excited state lasts nanoseconds.",
+        "b": "Too short for this case.",
+        "c": "Too long—eximer emissions are faster.",
+        "d": "Far too long for excited state emissions."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The experiment can easily be repeated at a series of wavelengths to piece together the spectrum of the products as a function of:",
+      "answers": {
+        "a": "Light",
+        "b": "Time",
+        "c": "Temperature",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "Light is used, but not the dependent variable.",
+        "b": "Correct: the product spectrum evolves over time.",
+        "c": "Temperature isn't the key variable here.",
+        "d": "There is a function involved—it's time."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
