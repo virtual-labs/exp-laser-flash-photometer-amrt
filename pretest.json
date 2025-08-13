@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which experimental technique operates on the fastest timescale?",
+      "answers": {
+        "a": "Nanosecond laser flash photolysis",
+        "b": "Stopped flow techniques",
+        "c": "NMR Spectroscopy",
+        "d": "Spectrophotometry"
+      },
+      "explanations": {
+        "a": "Laser flash photolysis using nanosecond lasers allows study of extremely fast reactions. <a href='https://example.com/laser-flash-photolysis'>More info</a>",
+        "b": "Stopped-flow techniques are fast but not as fast as laser-based methods.",
+        "c": "NMR is slower, typically used for more stable intermediates.",
+        "d": "Spectrophotometry is not suitable for very fast time scales."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The polychromatic beam is passed through a spectrograph to select the wavelength at which the reaction kinetics are monitored or to measure transient spectra as a function of:",
+      "answers": {
+        "a": "Light",
+        "b": "Intensity",
+        "c": "Time",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "While light is involved, the measurement tracks changes over time.",
+        "b": "Intensity may vary but is not the monitored variable.",
+        "c": "Correct: changes are measured as a function of time.",
+        "d": "Incorrect: there is a variable being tracked—time."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The diatomic product is produced in a highly excited state with a lifetime in the:",
+      "answers": {
+        "a": "Nanosecond range",
+        "b": "Picoseconds range",
+        "c": "Microsecond range",
+        "d": "Millisecond range"
+      },
+      "explanations": {
+        "a": "Correct: as per the text, the excited state lasts nanoseconds.",
+        "b": "Too short for this case.",
+        "c": "Too long—eximer emissions are faster.",
+        "d": "Far too long for excited state emissions."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The experiment can easily be repeated at a series of wavelengths to piece together the spectrum of the products as a function of:",
+      "answers": {
+        "a": "Light",
+        "b": "Time",
+        "c": "Temperature",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "Light is used, but not the dependent variable.",
+        "b": "Correct: the product spectrum evolves over time.",
+        "c": "Temperature isn't the key variable here.",
+        "d": "There is a function involved—it's time."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
